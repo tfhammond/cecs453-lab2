@@ -1,0 +1,7 @@
+com.example.lab2.app-debug-0 C:\Users\tommy\OneDrive\Documents\CSULB\CECS 453\lab2\android\app\src\debug\res
+com.example.lab2.app-main-1 C:\Users\tommy\OneDrive\Documents\CSULB\CECS 453\lab2\android\app\src\main\res
+com.example.lab2.app-pngs-2 C:\Users\tommy\OneDrive\Documents\CSULB\CECS 453\lab2\build\app\generated\res\pngs\debug
+com.example.lab2.app-updated_navigation_xml-3 C:\Users\tommy\OneDrive\Documents\CSULB\CECS 453\lab2\build\app\generated\updated_navigation_xml\debug
+com.example.lab2.app-packageDebugResources-4 C:\Users\tommy\OneDrive\Documents\CSULB\CECS 453\lab2\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.lab2.app-packageDebugResources-5 C:\Users\tommy\OneDrive\Documents\CSULB\CECS 453\lab2\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.lab2.app-debug-6 C:\Users\tommy\OneDrive\Documents\CSULB\CECS 453\lab2\build\app\intermediates\merged_res\debug\mergeDebugResources
